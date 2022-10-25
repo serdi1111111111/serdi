@@ -1,0 +1,6 @@
+Иван Иванов|ivanov@mail.ru|Password123
+Дима Лапушок|superman1993@xakep.ru|1993superman
+Вася Пупкин|pupok@yandex.ru|qwerty12345
+Фродо Бэггинс|Frodo@mail.ru|MoRdOr100500
+Кевин Митник|kevin@xakep.ru|dontcrackitplease
+Юзер Юзерович|uswer@yandex.ru|aaaa321
